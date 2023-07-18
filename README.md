@@ -1,6 +1,6 @@
 <div align="center"><img  alt="coding" width="70%"  height="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></div>
  
- # <div align="center"><pre> Hi👋, I'm Shudhanshu Shekhar </pre> </div> 
+ # <div align="center"><pre> Hi👋, I'm Thilak Singh Thakur </pre> </div> 
 
 ##     <div align="center"><pre> An enthusiastic & dedicated full stack web developer from India</pre></div>
 
@@ -9,17 +9,17 @@
 ##   💫 About Me:
 - 🌱  I’m currently learning M.E.R.N
 - 💬  Ask me about React,CSS,HTML,Javacript
-- 👨‍💻 All of my projects are available at https://ShudhanshuShekhar123.github.io
-- 📫 How to reach me shudhanshuraz01@gmail.com
+- 👨‍💻 All of my projects are available at https://ThilakSamplegithub.github.io
+- 📫 How to reach me truimphthilak@gmail.com
 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshushekhar123&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshushekhar123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThilakSamplegithub&label=Profile%20views&color=0e75b6&style=flat" alt="ThilakSamplegithub" /> </p>
 
 
 
 ## 🌐 Socials:
-[![](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/shudhanshu-shekhar-488902245/)
+[![](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/thilak-singh-thakur-b1882b23a/)
 
 ## 💻 Tech Stack:
 ![](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -37,9 +37,9 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShudhanshuShekhar123&theme=algolia&show_icons=true&locale=en" alt="shudhanshushekhar123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThilakSamplegithub&theme=algolia&show_icons=true&locale=en" alt="ThilakSamplegithub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shudhanshushekhar123&theme=great-gatsby" alt="shudhanshushekhar123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThilakSamplegithub&theme=great-gatsby" alt="ThilakSamplegithub" /></p>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shudhanshushekhar123&theme=omni&show_icons=true&locale=en&layout=compact" alt="shudhanshushekhar123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThilakSamplegithub&theme=omni&show_icons=true&locale=en&layout=compact" alt="ThilakSamplegithub" /></p>
